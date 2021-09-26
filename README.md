@@ -1,4 +1,5 @@
-## EAE! Eu sou a Chrystopher Willians!
+## Eae! Eu sou a Chrystopher Willians!
+Seja bem vindo ao meu perfil do GitHub!
 <div align="center">
   <a href="https://github.com/ChrysWillians">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChrysWillians&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
